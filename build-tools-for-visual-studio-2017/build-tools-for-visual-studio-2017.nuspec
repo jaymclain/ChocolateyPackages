@@ -14,7 +14,7 @@
     <tags>microsoft visual studio build tools 2017</tags>
     <licenseUrl>https://www.visualstudio.com/license-terms/mlt687465/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://cdn.rawgit.com/jaymclain/ChocolateyPackages/7e916e22/azuredocumentdbemulator/tools/azuredocumentdbemulator.1.12.0.0.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/jaymclain/ChocolateyPackages/7c353c33/build-tools-for-visual-studio-2017/tools/build-tools-for-visual-studio-2017-15.0.0.0.png</iconUrl>
     <dependencies>
     </dependencies>
     <releaseNotes></releaseNotes>
