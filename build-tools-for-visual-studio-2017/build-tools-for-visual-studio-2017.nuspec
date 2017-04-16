@@ -10,14 +10,15 @@
     <summary>Build Tools for Visual Studio 2017 allow you to build native and managed MSBuild-based applications without requiring the Visual Studio IDE. </summary>
     <description>Build Tools for Visual Studio 2017 allow you to build native and managed MSBuild-based applications without requiring the Visual Studio IDE.</description>
     <projectUrl>https://www.visualstudio.com/downloads/</projectUrl>
+    <docsUrl>https://www.visualstudio.com/downloads/</docsUrl>
     <packageSourceUrl>https://github.com/jaymclain/ChocolateyPackages</packageSourceUrl>
-    <tags>microsoft visual studio build tools 2017</tags>
+    <tags>microsoft visual studio build tools 2017 admin</tags>
     <licenseUrl>https://www.visualstudio.com/license-terms/mlt687465/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/jaymclain/ChocolateyPackages/7c353c33/build-tools-for-visual-studio-2017/tools/build-tools-for-visual-studio-2017-15.0.0.0.png</iconUrl>
     <dependencies>
     </dependencies>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>Initial release of package.</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
